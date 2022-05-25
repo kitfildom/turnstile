@@ -1,18 +1,4 @@
-# Turnstile
-To proceed with your purchase, please pass through the turnstile on the lefthand side of you, and pay 250 dollars in cash. Once the transaction is complete, you will obtain a card, using which you will be able to enter, exit, or perform certain actions inside the whole area for 2 hours (125$ = 1 hour). **Before** your timer runs out, you shall return your card to the turnstile in the visitor centre. Before leaving, you will be asked to list every actions you performed within this area (25km, circular shape) and you will be requested to pay for these afterwards. If no actions were performed, you will be granted a 20 dollars fee. Before leaving, you will also be granted 5 dollars as a leaving fee, and for exiting the parking lot you will be granted 100 dollars for **every** hour your car has spent in the parking lot. If you leave too late, you will be granted a 500 dollar fee, and a seven-months-long restricted access to this area.
+# Turnstile REV42
+This turnstile is the version REV42, the successor to REV21. This turnstile features an all-new operating system, a lot of new features, custom system messages, improved emergency handling, custom actions, updated licensing information, international release, full user-made application and addon support, automatic robot staff, and much, much more.
 
-# Fees
-| Action      | Fee |
-| ----------- | ----------- |
-| Dancing | 175$ |
-| Paragliding | 500$ |
-| Meeting the owner | 1750$ |
-| Running* | 50$ |
-| Losing a game | 5$ |
-| Winning a game| 20$ |
-
-
-*Running counts both as an activity, and as a penalty fee
-
-# More information
-This turnstile was designed by @kitfildom (GitHub). This message has been generated using a prototype turnstile. This is a testing scenario, and is used for illustrational purposes. None of this is true.
+This turnstile does **NOT** grant ANY fees for ANY reason. The only fee you WILL pay is the one when you purchase the turnstile. This is, why REV42 is the most used international turnstile in history. Its successor, REV84 & REV84 PRO are much better, though, and this turnstile (referring to REV42) will be **deprecated by 20.01.1997 (DD.MM.YYYY)**. It is not recommended for use after this date, as many of the funcions will fail, until its **complete defunction by 01.01.2000 (DD.MM.YYYY)**. As a great alternative, we recommend LLPL98 TITAN, as it has the same, if not more functions.
